@@ -1,6 +1,6 @@
-CREATE DATABASE IF NOT EXISTS database_links;
+CREATE DATABASE IF NOT EXISTS tuservic_database_links;
 
-use database_links;
+use tuservic_database_links;
 
 CREATE TABLE IF NOT EXISTS users (
     id int(11) NOT NULL,
