@@ -4,7 +4,7 @@ module.exports = {
         // user: 'db_mysql_0001@db-mysql-0001',
         // password: 'Surco123.',
         // database: 'database_links'
-        host: '157.90.36.209',
+        host: '157.90.70.110',
         database: 'tuservic_database_links',
         user: 'tuservic_sergio',
         password: 'MF]0IbRP&5q{',
